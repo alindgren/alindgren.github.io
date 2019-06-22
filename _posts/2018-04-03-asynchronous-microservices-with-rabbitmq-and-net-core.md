@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Asynchronous microservices with RabbitMQ and .NET Core
-tags: [microservices]
+tags: [microservices, RabbitMQ, .NET Core]
 comments: false
 ---
 
