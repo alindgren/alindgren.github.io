@@ -59,7 +59,7 @@ var sendMessageResponse = sqsClient.SendMessageAsync(sendMessageRequest);
 
 The example app uses SimpleInjector for dependency injection, and I replaced the RabbitMQ implementation with the AmazonSQS implementation for IEventBus:
 
-```
+```csharp
 container.Register<IntegrationEvents.IEventBus, 
 IntegrationEvents.AmazonSQS.EventBusAmazonSQS>(Lifestyle.Singleton);
 ```
