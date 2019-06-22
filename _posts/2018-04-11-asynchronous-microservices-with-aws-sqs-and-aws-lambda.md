@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Asynchronous microservices with AWS SQS and AWS Lambda
-tags: [microservices]
+bigimg: /img/path.jpg
+tags: [microservices, AWS SQS, AWS Lambda]
 comments: false
 ---
 
