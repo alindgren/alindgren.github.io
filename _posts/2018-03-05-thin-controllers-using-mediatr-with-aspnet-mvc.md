@@ -13,7 +13,7 @@ Most recently I’ve been looking into microservices and various design patterns
 
 A fat controller is a controller that has a lot of dependencies and whose action methods contain a lot of business logic. For instance, the Fundraiser controller that handles the donation form had the following objects injected into the constructor:
 
-```chsarp
+```csharp
 private ICampaignRepository _campaignRepository;
 private IFundraiserRepository _fundraiserRepository;
 private IDonationRepository _donationRepository;
