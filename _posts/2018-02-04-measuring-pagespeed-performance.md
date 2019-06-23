@@ -4,7 +4,6 @@ title: Measuring PageSpeed performance
 tags: [page speed, performance]
 comments: false
 ---
-
 Pagespeed is an important factor in providing a good web user experience. A commonly quoted statistic for this is that 40% of people abandon a website that takes more than 3 seconds to load. It is common for sites to see increased conversions after implementing performance optimizations. Pagespeed is not just a factor for user experience but also effects search. Google has stated that page speed is now a factor in their web search ranking algorithm.
 
 `<aside>`Visit [WPO Stats](https://wpostats.com/) to view case studies and experiments demonstrating the impact of web performance optimization (WPO) on user experience and business metrics.`</aside>`
