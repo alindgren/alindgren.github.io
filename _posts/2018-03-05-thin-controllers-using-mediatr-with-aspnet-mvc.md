@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thin Controllers using MediatR with ASP.NET MVC
-tags: [ASP.NET MVC, MediatR]
+tags: [ASP.NET MVC, mediator pattern, MediatR, microservices]
 comments: false
 ---
 
