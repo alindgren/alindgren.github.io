@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/alexlindgren
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.alexlindgren.com
+  * I am alexlindgren (https://keybase.io/alexlindgren) on keybase.
+  * I have a public key ASCMYchBaTK5BH0ThZ1oyXJKXS7NAKQg3eDu-1INPjqVFQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01208c61c8416932b9047d13859d68c9724a5d2ecd00a420dde0eefb520d3e3a95150a",
+            "host": "keybase.io",
+            "kid": "01208c61c8416932b9047d13859d68c9724a5d2ecd00a420dde0eefb520d3e3a95150a",
+            "uid": "b34f62bddada6628e1c8b496c463c819",
+            "username": "alexlindgren"
+        },
+        "service": {
+            "hostname": "www.alexlindgren.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1497803339,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1497803318,
+        "hash": "25ce4d18796b2dab387777039b78422f6b31afdba0867c9ead9431e604aca31c32ca6f2b1599fc76c076f51c7f3a6a299c796ecf9d43143977b0247afddcfb30",
+        "seqno": 1178700
+    },
+    "prev": "7f9fbe4fd50eab5afa9bd49091986aab53f602f48399c9eed87eed5ac7029546",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjGHIQWkyuQR9E4WdaMlySl0uzQCkIN3g7vtSDT46lRUKp3BheWxvYWTFAwB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOGM2MWM4NDE2OTMyYjkwNDdkMTM4NTlkNjhjOTcyNGE1ZDJlY2QwMGE0MjBkZGUwZWVmYjUyMGQzZTNhOTUxNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOGM2MWM4NDE2OTMyYjkwNDdkMTM4NTlkNjhjOTcyNGE1ZDJlY2QwMGE0MjBkZGUwZWVmYjUyMGQzZTNhOTUxNTBhIiwidWlkIjoiYjM0ZjYyYmRkYWRhNjYyOGUxYzhiNDk2YzQ2M2M4MTkiLCJ1c2VybmFtZSI6ImFsZXhsaW5kZ3JlbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LmFsZXhsaW5kZ3Jlbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIzIn0sImN0aW1lIjoxNDk3ODAzMzM5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTc4MDMzMTgsImhhc2giOiIyNWNlNGQxODc5NmIyZGFiMzg3Nzc3MDM5Yjc4NDIyZjZiMzFhZmRiYTA4NjdjOWVhZDk0MzFlNjA0YWNhMzFjMzJjYTZmMmIxNTk5ZmM3NmMwNzZmNTFjN2YzYTZhMjk5Yzc5NmVjZjlkNDMxNDM5NzdiMDI0N2FmZGRjZmIzMCIsInNlcW5vIjoxMTc4NzAwfSwicHJldiI6IjdmOWZiZTRmZDUwZWFiNWFmYTliZDQ5MDkxOTg2YWFiNTNmNjAyZjQ4Mzk5YzllZWQ4N2VlZDVhYzcwMjk1NDYiLCJzZXFubyI6NSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEA0k2QF63VHk1P6YUgn82qjCbsFUbsAqJOlhthWoTI+wgUBfF+nu7nunpWgB1wlyHICAIv8rCFFO3bmxMLSobQLqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg8dUzRG/Q5DEnKD/Z/QK3C3lfK+7FhNf96LGXR8xT8NqjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexlindgren
+
+==================================================================
