@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automated testing ASP.NET applications with Selenium and Appveyor
-tags: [Appveyor, ASP.NET, Selenium, Test-driven development, unit testing]
+tags: [Appveyor, ASP.NET, Selenium, test-driven development, unit testing]
 comments: false
 ---
 Many years ago I read the first edition of *Extreme Programming Explained* by Kent Beck. While it had a big impact on my programming career -- it was my first introduction to an agile development process -- I never had the opportunity to fully embrace its methodology. Two Extreme Programming practices that I continue to aspire to follow are Test-driven development and Continuous integration.

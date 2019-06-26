@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deploying to Azure App Service with custom build script
-tags: [Appveyor, ASP.NET, Selenium, Test-driven development, unit testing]
+tags: [Azure, continuous deployment, DevOps, Node.js]
 comments: false
 ---
 My agency recently started working on a website built with React. Like most modern sites built using frameworks such as React or Angular, it leverages a Node-based build system. While we are not responsible for hosting the site, I needed to set up a test site. Most of our test sites are hosted using [Azure App Services](https://azure.microsoft.com/en-us/services/app-service/) which includes convenient [continuous deployment options](https://docs.microsoft.com/en-us/azure/app-service/app-service-continuous-deployment) to deploy from Git repositories hosted on Bitbucket and GitHub. The magic that makes this work is Kudu, an open source deployment engine developed by Microsoft.
