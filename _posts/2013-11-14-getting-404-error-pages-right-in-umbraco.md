@@ -23,7 +23,7 @@ Since I am running IIS 8, I followed the instructions that to insert the followi
 This sort of works. For .aspx and extensionless URLs I was getting the content of the page I had set in umbracosettings.config. But other URLs, such as .html or .jpg were returning a 404 Not Found response with an empty body.
 
 ```
-httpErrors>
+<httpErrors>
    <remove statusCode="404" subStatusCode="-1" />
    <error statusCode="404" prefixLanguageFilePath="" 
       path="/missing.aspx" responseMode="ExecuteURL" />
