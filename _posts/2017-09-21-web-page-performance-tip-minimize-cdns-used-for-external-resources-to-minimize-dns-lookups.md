@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web Page Performance Tip: minimize CDNs used for external resources to minimize DNS lookups
+title: "Web Page Performance Tip: minimize CDNs used for external resources to minimize DNS lookups"
 tags: [Page Speed, Performance]
 comments: false
 ---
